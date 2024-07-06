@@ -40,7 +40,7 @@ const Hero = () => {
 
     <div className="btn flex space-x-3 justify-center">
       <button className='bg-gradient-to-r from-blue-400 to-blue-500 py-4 px-8 text-white rounded-full'>Hire me</button>
-      <button className='py-4 px-8 bg-white shadow-[white] text-black rounded-full'><a type='file' target='blank' href={resume}>  Get Resume</a> </button>
+      <button className='py-4 px-8 bg-white shadow-[white] text-black rounded-full'><a type='file' target='blank' href={resume}>Get Resume</a> </button>
     </div>
       </div>
     </div>
